@@ -102,3 +102,5 @@ Vamos modificar a tela app/index.tsx :
 
 ## Essa alteração será refletida automaticamente em todas as plataformas
 
+
+
